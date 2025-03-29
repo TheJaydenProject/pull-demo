@@ -1,6 +1,6 @@
-# pull-demo
+# learning-git
 
-Just a little test repo to play with GitHub pull requests and merges.
+Just a little test repo to explore GitHub and Git.
 
 Used for hands-on practice and testing.
 
